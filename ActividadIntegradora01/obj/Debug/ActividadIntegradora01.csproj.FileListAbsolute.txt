@@ -1,0 +1,47 @@
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.exe.config
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.exe
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.pdb
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.AssemblyReference.cache
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\MainWindow.g.cs
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\App.g.cs
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01_MarkupCompile.cache
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01_MarkupCompile.lref
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\MainWindow.baml
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.g.resources
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.Properties.Resources.resources
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.GenerateResource.cache
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.CoreCompileInputs.cache
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.exe
+C:\Users\Educaccion\source\repos\ActividadIntegradora01\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.pdb
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.exe.config
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.exe
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.pdb
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.AssemblyReference.cache
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\MainWindow.g.cs
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\App.g.cs
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01_MarkupCompile.cache
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01_MarkupCompile.lref
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\MainWindow.baml
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.g.resources
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.Properties.Resources.resources
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.GenerateResource.cache
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.CoreCompileInputs.cache
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.exe
+C:\Users\Educaccion\Desktop\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.pdb
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.exe.config
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.exe
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\bin\Debug\ActividadIntegradora01.pdb
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.AssemblyReference.cache
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\MainWindow.g.cs
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\App.g.cs
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01_MarkupCompile.cache
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01_MarkupCompile.lref
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\MainWindow.baml
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.g.resources
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.Properties.Resources.resources
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.GenerateResource.cache
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.csproj.CoreCompileInputs.cache
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.exe
+C:\Users\hory_\Downloads\actividad integradora 2\Nueva carpeta\ActividadIntegradora1\ActividadIntegradora01\obj\Debug\ActividadIntegradora01.pdb
